@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LeetCode Solutions</title>
+
+<title>LeetCode Solutions</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -35,7 +31,7 @@
     <h1>LeetCode Solutions</h1>
     <p>This repository contains my solutions to various LeetCode questions. I will be updating it regularly as I solve more problems.</p>
 
-    <h2>Table of Contents</h2>
+<h2>Table of Contents</h2>
     <ul>
         <li><a href="#array">Array</a></li>
         <li><a href="#string">String</a></li>
@@ -43,14 +39,13 @@
         <!-- Add more sections for other categories as needed -->
     </ul>
 
-    <h2 id="array">Array</h2>
+<h2 id="array">Array</h2>
     <ul>
         <li><a href="array/two-sum">Two Sum</a></li>
         <li><a href="array/three-sum">Three Sum</a></li>
         <!-- Add more links to your solutions -->
     </ul>
-
-    <h2 id="string">String</h2>
+<h2 id="string">String</h2>
     <ul>
         <li><a href="string/reverse-string">Reverse String</a></li>
         <li><a href="string/valid-parentheses">Valid Parentheses</a></li>
