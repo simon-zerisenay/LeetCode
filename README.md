@@ -1,5 +1,4 @@
-
-    <h1>LeetCode Solutions</h1>
+ <h1>LeetCode Solutions</h1>
     <p>This repository contains my solutions to various LeetCode questions. I will be updating it regularly as I solve more problems.</p>
 
 <h2>Table of Contents</h2>
